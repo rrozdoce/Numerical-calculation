@@ -1,0 +1,6 @@
+let tabela = {}
+
+
+function valor() {
+    
+}
