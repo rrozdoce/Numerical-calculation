@@ -1,6 +1,0 @@
-let tabela = {}
-
-
-function valor() {
-    
-}
